@@ -15,7 +15,7 @@ SENA CDITI — Software Analysis and Development (ADSO)
 | Karen Herrera | Developer |
 | Jhoan Sebastián Marín | Developer |
 | Johan Esteban Lemus | Developer |
-| Johan Sebastian Almaio| Developer|
+| Johan Sebastian Almario| Developer|
 
 ---
 
